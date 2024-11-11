@@ -60,7 +60,7 @@ VALUES
 
 # Analysis: 
 
-#Categorize companies by their revenue as "High Revenue", "Medium Revenue", or "Low Revenue" and provide insights into the average employee tenure within each revenue category.
+# Categorize companies by their revenue as "High Revenue", "Medium Revenue", or "Low Revenue" and provide insights into the average employee tenure within each revenue category.
 SELECT COUNT(company_name) AS "company_Count", 
        AVG(avg_employee_tenure) AS "average_tenture", 
        CASE 
@@ -71,8 +71,24 @@ SELECT COUNT(company_name) AS "company_Count",
 FROM fortune_companies
 GROUP BY revenue_category;
 
-#Retrieve companies that either offer generous benefits (more than 20 days of paid time off and healthcare) or are in the Technology industry with extended maternity leave (over 12 weeks).
+# Retrieve companies that either offer generous benefits (more than 20 days of paid time off and healthcare) or are in the Technology industry with extended maternity leave 
+  (over 12 weeks).
 SELECT company_name
 FROM fortune_companies
 WHERE paid_time_off_days > 20 AND healthcare_benefits = 1
 OR industry = "Technology" AND maternity_leave_weeks > 12;
+
+# Analyzing if there is any significant relationship between the number of PTO days and the size of the company. Filtering for companies with at least 1,000 employees.
+SELECT paid_time_off_days, COUNT(employees) AS "employee_count"
+FROM fortune_companies
+WHERE employees >= 1000
+GROUP BY paid_time_off_days
+ORDER BY employee_count DESC;
+
+# This query compares the average paid time off (PTO) days offered by various companies across different industries, focusing on companies that offer more than 20 PTO days on 
+  average.
+SELECT company_name, AVG(paid_time_off_days) AS avg_pto
+FROM fortune_companies
+GROUP BY company_name
+HAVING AVG(paid_time_off_days) > 20
+ORDER BY avg_pto DESC;

@@ -29,16 +29,27 @@ VALUES
 
 #For this project, I used SQL to query the Superstore database to get information about items sold at the store and their prices. 
 
-#The following query analyzes the 'Kitchen Supplies' category to find the highest price for each item,then organizes the results from the most to least expensive.
-SELECT item_name, category, MAX(price) AS 'max_price'
+#The following query analyzes product categories by showing the average rating within each category. The results are displayed in descending order to highlight the highest-rated categories first.
+SELECT category, AVG(average_rating) AS avg_rating
 FROM superstore
-WHERE category = 'Kitchen Supplies'
-GROUP BY item_name, price
-ORDER BY price DESC;
+GROUP BY category
+ORDER BY avg_rating DESC;
 
-#This query analyzes product categories by showing the average rating within each category. It displays the results in descending order to highlight the highest-rated categories first.
-
-SELECT category, average_rating
+#This query evaluates product categories where the price of items exceeds $100. It calculates the average price for each category and the total stock quantity, organizing the results by stock quantity in ascending order.
+SELECT category, AVG(price) AS avg_price, SUM(stock_quantity) AS total_stock
 FROM superstore
-GROUP BY category, average_rating
-ORDER BY average_rating DESC;
+WHERE price > 100
+GROUP BY category
+ORDER BY total_stock ASC;
+
+#This query calculates the average price of items in the "Kitchen Supplies" category and rounds the result to two decimal places to provide a more precise value.
+SELECT category, ROUND(AVG(price), 2) AS rounded_avg_price
+FROM superstore
+WHERE category = 'Kitchen Supplies';
+
+#This query calculates the total price for each item that has a stock quantity of at least 20. The results are organized from the most to the least expensive, showcasing items with higher cumulative value.
+SELECT item_name, SUM(price) AS total_price
+FROM superstore
+WHERE stock_quantity >= 20
+GROUP BY item_name
+ORDER BY total_price DESC;

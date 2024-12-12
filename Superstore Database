@@ -43,7 +43,7 @@ GROUP BY category
 ORDER BY total_stock ASC;
 
 #This query calculates the average price of items in the "Kitchen Supplies" category and rounds the result to two decimal places to provide a more precise value.
-SELECT category, ROUND(AVG(price), 2) AS rounded_avg_price
+SELECT category, ROUND(AVG(price), 2) AS average_price
 FROM superstore
 WHERE category = 'Kitchen Supplies';
 

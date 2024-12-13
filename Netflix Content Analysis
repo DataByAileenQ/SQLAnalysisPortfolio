@@ -76,7 +76,7 @@ FROM "netflix_titles_info";
 #3. This query retrieves all movie and TV show titles, sorted alphabetically to provide an organized view of available content.
 SELECT title
 FROM "netflix_titles_info"
-ORDER BY tit
+ORDER BY title ASC;
 
 #4. This query reveals the director of the movie The Starling by joining data from the titles and people tables, connecting on the show ID.
 SELECT director

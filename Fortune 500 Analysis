@@ -60,14 +60,13 @@ VALUES
 
 # Analysis: 
 
-# Categorize companies by their revenue as "High Revenue", "Medium Revenue", or "Low Revenue" and provide insights into the average employee tenure within each revenue category.
-SELECT COUNT(company_name) AS "company_Count", 
-       AVG(avg_employee_tenure) AS "average_tenture", 
+# Categorize companies by their revenue as 'High Revenue', 'Medium Revenue', or 'Low Revenue' and provide insights into the average employee tenure within each revenue category.
+SELECT COUNT(company_name) AS 'company_Count', AVG(avg_employee_tenure) AS 'average_tenture', 
        CASE 
-            WHEN revenue >= 300 THEN "High Revenue"
-            WHEN revenue BETWEEN 200 AND 300 THEN "Medium Revenue"
-            ELSE "Low Revenue"
-       END AS "revenue_category"
+            WHEN revenue > 300 THEN 'High Revenue'
+            WHEN revenue BETWEEN 200 AND 300 THEN 'Medium Revenue'
+            ELSE 'Low Revenue'
+       END AS 'revenue_category'
 FROM fortune_companies
 GROUP BY revenue_category;
 

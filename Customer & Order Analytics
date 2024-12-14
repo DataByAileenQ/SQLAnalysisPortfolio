@@ -12,6 +12,7 @@ WHERE length(orderID) = 6
 AND product = 'iPhone';
 
 #3. Select the customer account numbers for all the orders that were placed in February.
+SELECT DISTINCT acctnum
 FROM Customers 
 JOIN FebSales
 ON Customers.order_id = FebSales.orderID

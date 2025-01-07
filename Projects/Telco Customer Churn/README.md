@@ -10,6 +10,9 @@ FROM employee
 ORDER BY levels DESC
 LIMIT 1;
 ```
-| title                  | first_name | last_name |
-|------------------------|------------|-----------|
-| Senior General Manager | Madan      | Mohan     |
+| Total Customers | Tenure Distribution |
+|------------------|---------------------|
+| 1136            | Low Tenure          |
+| 515             | High Tenure         |
+| 218             | Mid Tenure          |
+

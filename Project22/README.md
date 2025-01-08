@@ -1,4 +1,7 @@
 ![Banner](Images/istockphoto-1286560097-612x612.jpg)
+
+<img src="Images/istockphoto-1286560097-612x612.jpg" alt="Banner" width="100%" height="612">
+
 <img src="Images/istockphoto-1286560097-612x612.jpg" alt="Banner" width="100%">
 ## 📚 Overview
 This project involves analyzing employee data to uncover patterns in performance, salary, and other factors. The dataset includes information such as employee demographics, performance ratings, and salary figures. The goal is to provide actionable insights into areas like salary equity, employee satisfaction, and churn.

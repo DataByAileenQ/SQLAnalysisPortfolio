@@ -1,6 +1,6 @@
 ![Banner](Images/istockphoto-1286560097-612x612.jpg)
 
-<img src="Images/istockphoto-1286560097-612x612.jpg" alt="Banner" width="100%" height="600">
+<img src="Images/istockphoto-1286560097-612x612.jpg" alt="Banner" width="100%" height="500">
 
 <img src="Images/istockphoto-1286560097-612x612.jpg" alt="Banner" width="100%">
 ## 📚 Overview

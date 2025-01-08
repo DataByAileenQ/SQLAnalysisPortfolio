@@ -1,1 +1,1 @@
-![Telco Banner](Images/TelecoBackground.png)
+![Telco Banner](SQL/Images/TelecoBackground.png)

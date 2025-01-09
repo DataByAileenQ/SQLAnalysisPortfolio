@@ -33,8 +33,17 @@ What factors are most strongly associated with customer churn in telecommunicati
 - **SQL**: Performed EDA and segmented customers to identify churn patterns.
 - **Tableau**: Visualized insights to develop strategies for churn reduction and retention.
 
+# **Methods**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Customer Segmentation
+- Correlational Analysis
+- Customer Retention Strategy
+
 <Br>
   
 ---
+
+# **Brief Results**
 
 

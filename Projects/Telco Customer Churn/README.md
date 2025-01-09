@@ -50,5 +50,18 @@ What factors are most strongly associated with customer churn in telecommunicati
 ![ChurnbyPaymentMethod](Images/ChurnbyPaymentMethod.png)
 ![CustomerChurnbyContract](Images/CustomerChurnbyContract.png)
 
+| Partner | ChurnRate |
+|---------|-----------|
+| No      | 17.04     |
+| Yes     | 9.5       |
+
+
+| Dependents | ChurnRate |
+|------------|-----------|
+| No         | 21.91     |
+| Yes        | 4.63      |
+
+
+
 
 

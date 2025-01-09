@@ -46,22 +46,34 @@ What factors are most strongly associated with customer churn in telecommunicati
 
 # **Brief Results**
 
+## Churn Distribution by Tenure
 ![ChurnDistributionbyTenure](Images/ChurnDistributionbyTenure.png)
+
+## Churn by Payment Method
 ![ChurnbyPaymentMethod](Images/ChurnbyPaymentMethod.png)
+
+## Customer Churn by Contract
 ![CustomerChurnbyContract](Images/CustomerChurnbyContract.png)
+
+## Customer Demographic
 
 | Partner | ChurnRate |
 |---------|-----------|
 | No      | 17.04     |
 | Yes     | 9.5       |
 
-
 | Dependents | ChurnRate |
 |------------|-----------|
 | No         | 21.91     |
 | Yes        | 4.63      |
 
+<Br>
 
+---
+
+# **Insights**
+
+**Tenure**: The highest churn rate is observed within the first 5 years, with 680 customers leaving during this period. Churn decreases as tenure increases, indicating that early-stage retention efforts should be prioritized. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price-to-value match could help reduce churn in these critical stages.
 
 
 

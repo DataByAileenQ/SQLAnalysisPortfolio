@@ -1,10 +1,8 @@
 ![Banner](Images/TelcoCustomerChurnBanner.png)
 
-# Customer Churn Analysis
-
 # **Customer Churn Analysis**
 
-This project explores customer churn behavior using various analytical techniques to derive actionable insights. The analysis focuses on identifying key factors influencing customer churn and suggests retention strategies to mitigate it.
+Customer churn is a critical metric for businesses, as it measures the rate at which customers stop doing business with a company. This analysis aims to understand churn behavior by exploring customer demographics, service preferences, and payment methods. Insights are used to craft data-driven recommendations for improving customer retention.
 
 ---
 

@@ -73,7 +73,7 @@ What factors are most strongly associated with customer churn in telecommunicati
 
 # **Insights**
 
-**Tenure**: The highest churn rate is observed within the first 5 years, with 680 customers leaving during this period. Churn decreases as tenure increases, indicating that early-stage retention efforts should be prioritized. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price-to-value match could help reduce churn in these critical stages.
+**Tenure**: The **highest churn rate** is observed within the first **5 years**, with **680 customers leaving during this period**. Churn decreases as tenure increases, indicating that **early stage retention efforts should be prioritized**. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price-to-value match could help reduce churn in these critical stages.
 
-
+**Payment method**: Customers using **electronic checks exhibit a higher churn rate**, suggesting that **flexibility and control over payments** may lead to a higher likelihood of churn. In contrast, customers who use **automatic payment method**s, such as bank transfers and credit cards, have **significantly lower churn** rates, indicating that these customers may exhibit **greater commitment and financial stability**. **Mailed check users** also show a relatively **low churn** rate, possibly reflecting a more **traditional and loyal customer segment**.
 

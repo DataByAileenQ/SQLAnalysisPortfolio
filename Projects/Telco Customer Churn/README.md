@@ -1,6 +1,6 @@
 ![Banner](Images/TelcoCustomerChurnAnalysis.png)
 
-# **Customer Churn Analysis Overview**
+# Customer Churn Analysis Overview
 
 Customer churn is a critical metric for businesses, as it measures the rate at which customers stop doing business with a company. This analysis aims to understand churn behavior by exploring customer demographics, service preferences, and payment methods. Insights are used to craft data-driven recommendations for improving customer retention.
 
@@ -22,18 +22,18 @@ Customer churn is a critical metric for businesses, as it measures the rate at w
 
 ---
 
-# **Business Problem**
+## Business Problem
 What factors are most strongly associated with customer churn in telecommunications services, and how can targeted strategies be developed to mitigate these drivers and enhance customer retention and profitability?
 
-# **Data Source**
+## Data Source
 - [Kaggle Telco Customer Churn](https://www.kaggle.com/rikdifos/credit-card-approval-prediction](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data))
 
-# **Process**
+## Process
 - **Excel**: Cleaned and standardized data using Power Query (missing values, format changes).
 - **SQL**: Performed EDA and segmented customers to identify churn patterns.
 - **Tableau**: Visualized insights to develop strategies for churn reduction and retention.
 
-# **Methods**
+## Methods
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Customer Segmentation
@@ -44,18 +44,18 @@ What factors are most strongly associated with customer churn in telecommunicati
   
 ---
 
-# **Brief Results**
+## Brief Results
 
-## Churn Distribution by Tenure
+### Churn Distribution by Tenure:
 ![ChurnDistributionbyTenure](Images/ChurnDistributionbyTenure.png)
 
-## Churn by Payment Method
+### Churn by Payment Method:
 ![ChurnbyPaymentMethod](Images/ChurnbyPaymentMethod.png)
 
-## Customer Churn by Contract
+### Customer Churn by Contract:
 ![CustomerChurnbyContract](Images/CustomerChurnbyContract.png)
 
-## Customer Demographic
+### Customer Demographic:
 
 | Partner | ChurnRate |
 |---------|-----------|
@@ -71,9 +71,21 @@ What factors are most strongly associated with customer churn in telecommunicati
 
 ---
 
-# **Insights**
+## Insights
 
-**Tenure**: The **highest churn rate** is observed within the first **5 years**, with **680 customers leaving during this period**. Churn decreases as tenure increases, indicating that **early stage retention efforts should be prioritized**. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price-to-value match could help reduce churn in these critical stages.
+- **Tenure**: The **highest churn rate** is observed within the first **5 years**, with **680 customers leaving during this period**. Churn decreases as tenure increases, indicating that **early stage retention efforts should be prioritized**. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price to value match could help reduce churn in these critical stages.
 
-**Payment method**: Customers using **electronic checks exhibit a higher churn rate**, suggesting that **flexibility and control over payments** may lead to a higher likelihood of churn. In contrast, customers who use **automatic payment method**s, such as bank transfers and credit cards, have **significantly lower churn** rates, indicating that these customers may exhibit **greater commitment and financial stability**. **Mailed check users** also show a relatively **low churn** rate, possibly reflecting a more **traditional and loyal customer segment**.
+- **Payment Method**: Customers using **electronic checks 15.21% exhibit a higher churn rate**, suggesting that **flexibility and control over payments** may lead to a higher likelihood of churn. In contrast, customers who use **automatic payment methods**, such as bank transfers and credit cards, have **significantly lower churn** rates, indicating that these customers may exhibit **greater commitment and financial stability**. **Mailed check users** also show a relatively **low churn** rate, possibly reflecting a more **traditional and loyal customer segment**.
 
+- **Contract**: The **majority of churned customers** were on **month-to-month contracts 88.55%**, suggesting that the **lack of long-term commitment** in these contracts is a **significant driver of churn**. In contrast, customers on one-year and two-year contracts exhibit lower churn, indicating that longer commitments may help improve retention.
+
+- **Demographic**: **Churned customers without dependents or partners** experience **higher churn rates** compared to those with dependents or partners. Churned customers **without dependents have a rate of 21.91%**, compared to 4.63% for those with dependents. Similarly, **churned customers without partners have a 17.04% churn rate**, which is higher than the 9.5% rate for those with partners.
+This suggests that customers **without a partner** may lack support, making them **more cost-sensitive** and more likely to seek alternatives. On the other hand, those **with dependents** may be more incentivized to stay long-term, driven by increased stability or greater **reliance on the service**.
+
+## Lessons Learned
+
+**Data quality is really important** having more complete datasets, especially with more customer details can lead to better insights. Customer segmentation was key in identifying high risk groups and creating targeted retention strategies. However, taking a closer look at demographics could help us understand customer behavior on a deeper level.
+
+## Reccomendation
+
+**Significance of aligning pricing strategies** with customer expectations, understanding the price to value perception is critical in addressing churn, although limited pricing data made this more challenging in this analysis.

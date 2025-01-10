@@ -8,11 +8,19 @@ This portfolio showcases my approach to SQL, which goes beyond just writing code
 
 ## 📂 Projects
 
-Here’s an overview of some featured projects:
-- **[Project 1: Gender Salary Analysis](link-to-project)**  
-  *Exploring patterns in salary disparities by gender within different departments and roles.*
-- **[Project 2: Employee Performance Insights](link-to-project)**  
-  *Examining performance metrics to uncover insights into employee satisfaction and retention trends.*
+This section highlights a series of SQL projects where I’ve applied data analysis techniques to solve real-world problems across various domains. Each project demonstrates my ability to write efficient SQL queries, extract and transform data, and uncover meaningful insights to inform decision-making. 💡
+
+These projects present a mix of challenges, from understanding customer behavior and optimizing business strategies to analyzing trends and performance metrics. My goal is to provide data-driven recommendations that are both insightful and actionable. 📊
+
+Below is a summary of the projects included in this repository:
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+|  [📞 Telco Customer Churn Analysis](./projects/telco-customer-churn/) | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
+|  [💼 HR Employee Attrition & Performance](./projects/hr-employee-attrition-performance/) | Employee retention, performance analysis, HR insights | Investigate employee attrition rates and performance trends to recommend HR strategies for improving retention. 💼|  
+|  [📦 Customer & Order Analytics](./projects/customer-order-analytics/) | Sales trends, customer demographics, product performance | Analyze customer orders and identify key factors affecting sales, such as customer preferences and product popularity. 📈 |  
+|  [🎧 Spotify Music Analysis](./projects/spotify-music-analysis/) | Music data, temporal trends, genre analysis | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and trends across different genres. 🎵 |
+
   
 For a detailed breakdown of each project, click on the project title or navigate to the individual folders.
 

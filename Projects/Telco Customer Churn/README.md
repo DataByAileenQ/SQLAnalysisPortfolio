@@ -10,13 +10,15 @@ Customer churn is a critical metric for businesses, as it measures the rate at w
 ## Table of Contents
 
 1. [Customer Churn Analysis Overview](#customer-churn-analysis-overview)
-2. [Skills Demonstrated](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-3. [Data Source](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-4. [Key Findings](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-5. [Repository Structure](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-6. [Getting Started](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-7. [Future Work](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
-8. [Contact](https://www.notion.so/Github-175c2e344087804eb9a7f48984a5d236?pvs=21)
+2. [Business Problem](#business-problem)
+3. [Data Source](#data-source)
+4. [Process](#process)
+5. [Methods](#methods)
+6. [Brief Results](#brief-results)
+7. [Insights](#insights)
+8. [Lessons Learned](#lessons-learned)
+9. [Reccomendation](#reccomendation)
+10.[Limitations](#limitations)
 
 <Br>
 

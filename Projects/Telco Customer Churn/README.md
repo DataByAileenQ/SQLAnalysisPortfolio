@@ -79,13 +79,38 @@ What factors are most strongly associated with customer churn in telecommunicati
 
 - **Contract**: The **majority of churned customers** were on **month-to-month contracts 88.55%**, suggesting that the **lack of long-term commitment** in these contracts is a **significant driver of churn**. In contrast, customers on one-year and two-year contracts exhibit lower churn, indicating that longer commitments may help improve retention.
 
-- **Demographic**: **Churned customers without dependents or partners** experience **higher churn rates** compared to those with dependents or partners. Churned customers **without dependents have a rate of 21.91%**, compared to 4.63% for those with dependents. Similarly, **churned customers without partners have a 17.04% churn rate**, which is higher than the 9.5% rate for those with partners.
-This suggests that customers **without a partner** may lack support, making them **more cost-sensitive** and more likely to seek alternatives. On the other hand, those **with dependents** may be more incentivized to stay long-term, driven by increased stability or greater **reliance on the service**.
+- **Demographic**: **Churned customers without dependents or partners** experience **higher churn rates** compared to those who do. Churned customers **without dependents have a rate of 21.91%** while **churned customers without partners have a 17.04% churn rate**, This suggests that customers **without a partner** may lack support, making them **more cost-sensitive** and more likely to seek alternatives. On the other hand, those **with dependents** may be more incentivized to stay long-term, driven by increased stability or greater **reliance on the service**.
 
 ## Lessons Learned
 
-**Data quality is really important** having more complete datasets, especially with more customer details can lead to better insights. Customer segmentation was key in identifying high risk groups and creating targeted retention strategies. However, taking a closer look at demographics could help us understand customer behavior on a deeper level.
+**Data quality is really important** having more complete datasets, especially with more customer details can lead to better insights. Customer segmentation was key in identifying high risk groups and creating targeted retention strategies. 
 
 ## Reccomendation
 
-**Significance of aligning pricing strategies** with customer expectations, understanding the price to value perception is critical in addressing churn, although limited pricing data made this more challenging in this analysis.
+- **Incentivize Long-Term Contracts**
+Offer discounts or exclusive benefits to customers who commit to 1 or 2 year contracts. This will increase customer retention by reducing churn from month-to-month contracts.
+
+- **Encourage Automated Payment Methods**
+Promote the use of credit cards or bank transfers instead of electronic checks by offering small discounts or loyalty rewards for customers who sign up for automatic payments. This will increase customer stability and reduce churn.
+
+- **Target Non-Partnered Customers with Family-Oriented Plans**
+Since customers without a partner tend to have higher churn rates, create special offers focused on family-oriented plans or partnered discounts. This can help encourage longer-term commitment from this group.
+
+## Limitations
+
+The analysis was limited by the lack of essential **demographic** and **product related data**, such as **age**, **salary**, and **detailed service pricing**.
+
+- **Age and Salary Data**: Without this, it was difficult to segment customers based on their financial profiles and tailor retention or pricing strategies accordingly.
+- **Service Pricing Data**: The absence of detailed pricing information made it hard to assess price sensitivity or determine if churn was due to dissatisfaction with service value.
+
+Incorporating these data points would have enabled a more comprehensive understanding of customer behavior and improved retention strategies.
+
+<Br>
+
+---
+
+## Further Reading and Exploration
+
+- **[Detailed Case Study](https://link-to-your-notion.com):** Dive deeper into the insights, challenges, and processes behind this project on my personal portfolio.  
+- **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/TelcoCustomerChurn_17359555698340/Dashboard2?publish=yes):** Explore the visualizations and analysis interactively on Tableau Public.  
+

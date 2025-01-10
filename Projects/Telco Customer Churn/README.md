@@ -18,7 +18,7 @@ Customer churn is a critical metric for businesses, as it measures the rate at w
 7. [Insights](#insights)
 8. [Lessons Learned](#lessons-learned)
 9. [Reccomendation](#reccomendation)
-10.[Limitations](#limitations)
+10. [Limitations](#limitations)
 
 <Br>
 

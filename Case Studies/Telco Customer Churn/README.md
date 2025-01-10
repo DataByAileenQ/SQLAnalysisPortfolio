@@ -1,4 +1,5 @@
 ![Banner](Images/TelcoCustomerChurnAnalysis.png)
+![Banner](Images/TelcoCustomerChurnAnalysis.png)
 
 # Customer Churn Analysis Overview
 

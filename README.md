@@ -1,15 +1,10 @@
 # 📊 SQL Portfolio by Aileen Q
 
-Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve worked on as part of a mini bootcamp. Each project here reflects hands-on experience and growing expertise in data analytics, specifically focused on SQL.
+Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve developed to demonstrate my growing expertise in data analytics. Each project reflects hands-on experience with SQL, data manipulation, and analysis, with a focus on solving real-world data challenges.
 
-## 🚀 About This Portfolio
+## 📚 About This Portfolio
 
-This portfolio demonstrates:
-- **Core SQL Skills**: From simple queries to complex joins, aggregations, and analytical functions.
-- **Real-World Problem Solving**: Tackling practical questions, including gender salary disparities, performance analytics, and more.
-- **Growth Journey**: Each project adds a layer to my learning, showcasing progress and mastery over time.
-
-My approach to SQL is more than just code. I focus on clear, insightful explanations of the statements I write, aiming to make each query’s purpose and impact easy to understand for both technical and non-technical audiences.
+This portfolio showcases my approach to SQL, which goes beyond just writing code. I focus on crafting clear and insightful explanations for each query, ensuring that both technical and non-technical audiences can easily understand its purpose and impact. With a background in MIS, UX Design, and HR IT Solutions, I aim to bridge the gap between data and those who can benefit from it, regardless of their technical expertise.
 
 ## 📂 Projects
 

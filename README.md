@@ -1,16 +1,16 @@
 # 📊 SQL Portfolio by Aileen Q
 
-Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve developed to demonstrate my growing expertise in data analytics. Each project reflects hands-on experience with SQL, data manipulation, and analysis, with a focus on solving real-world data challenges.
+Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve developed to demonstrate my growing expertise in data analytics. Each project reflects hands on experience with SQL, data manipulation, and analysis, with a focus on solving real-world data challenges.
 
-## 📚 About This Portfolio
+## 👩🏻‍💻 About Me
 
 This portfolio showcases my approach to SQL, which goes beyond just writing code. I focus on crafting clear and insightful explanations for each query, ensuring that both technical and non-technical audiences can easily understand its purpose and impact. With a background in MIS, UX Design, and HR IT Solutions, I aim to bridge the gap between data and those who can benefit from it, regardless of their technical expertise.
 
 ## 📂 Projects
 
-This section highlights a series of SQL projects where I’ve applied data analysis techniques to solve real-world problems across various domains. Each project demonstrates my ability to write efficient SQL queries, extract and transform data, and uncover meaningful insights to inform decision-making. 💡
+Each project demonstrates my ability to write efficient SQL queries, extract and transform data, and uncover meaningful insights to inform decision-making. 
 
-These projects present a mix of challenges, from understanding customer behavior and optimizing business strategies to analyzing trends and performance metrics. My goal is to provide data-driven recommendations that are both insightful and actionable. 📊
+These projects present a mix of challenges, from understanding customer behavior and optimizing business strategies to analyzing trends and performance metrics. My goal is to provide data-driven recommendations that are both insightful and actionable. 
 
 Below is a summary of the projects included in this repository:
 
@@ -22,7 +22,7 @@ Below is a summary of the projects included in this repository:
 |  [🎧 Spotify Music Analysis](./projects/spotify-music-analysis/) | Music data, temporal trends, genre analysis | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and trends across different genres. 🎵 |
 
   
-For a detailed breakdown of each project, click on the project title or navigate to the individual folders.
+To explore each project in detail, click on the project title or visit the respective folder.
 
 ## 🛠️ Technologies Used
 - **SQL**: Writing and optimizing queries

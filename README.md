@@ -24,23 +24,21 @@ Below is a summary of the projects included in this repository:
   
 To explore each project in detail, click on the project title or visit the respective folder.
 
-## 🛠️ Technologies Used
-- **SQL**: Writing and optimizing queries
-- **PostgreSQL/MySQL**: Database management (as per project requirements)
-- **Data Visualization Tools**: Occasionally integrated to present findings
+## 🛠️ Toolbox
 
-## 🌱 Why SQL?
+- **DBMS**: Oracle SQL, MS Acess, SQLite Studio, Postgre SQL
+- **Data Visualization**: Tableau Public
+- **MS Excel**
 
-I'm passionate about understanding and uncovering insights hidden in data. SQL has been a powerful tool in my journey, enabling me to ask critical questions and interpret data in ways that drive real insights. This repository is a testament to that passion.
-
-## 👋 Connect with Me
+### 😊 Connect with Me
 
 If you find any project interesting, or if you have any questions, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black)](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+- [Personal Portfolio](https://your-portfolio-link.com)
+
+Thank you for visiting!
 
 ---
 
-Thank you for visiting!😊
-
+© 2025 Aileen Quiroz. All rights reserved.

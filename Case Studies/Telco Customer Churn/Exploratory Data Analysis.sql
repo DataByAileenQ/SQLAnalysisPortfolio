@@ -109,6 +109,7 @@ AND (StreamingTV = 'Yes' OR StreamingMovies = 'Yes');
 -- Longest Tenured Customers
 -- Observation: 9 out of 10 longest-tenured customers use automatic payment methods, have contracts of 1 year or longer, have a partner, and only 1 is a senior.
 -- Insight: Financial stability, such as having automatic payments and longer-term contracts, as well as support from a partner, could play a significant role in customer retention. 
+SELECT *
 FROM TelecoChurn
 ORDER BY tenure DESC
 LIMIT 10;
@@ -122,7 +123,7 @@ SELECT COUNT(CustomerID) AS TotalCustomers,
             ELSE 'High Tenure'
        END AS "TenureDistribution"
 FROM TelecoChurn
-WHERE CHurn = 'Yes'
+WHERE Churn = 'Yes'
 GROUP BY CASE WHEN tenure BETWEEN 0 AND 15 THEN 'Low Tenure'
 	            WHEN tenure BETWEEN 16 AND 25 THEN 'Mid Tenure'
 	            ELSE 'High Tenure'

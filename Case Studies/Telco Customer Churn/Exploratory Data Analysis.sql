@@ -1,3 +1,8 @@
+-- EDA on Telco Customer Churn dataset (21 columns, 7043 records). 
+-- Data was prepped in Excel and imported into DBMS.
+-- Key features: Demographics (Gender, Partner, SeniorCitizen), Billing methods (PaymentMethod, MonthlyCharges), 
+-- Service usage (InternetService, StreamingTV), Churn status.
+
 SELECT * FROM TelecoChurn;
 
 --------CUSTOMER DEMOGRAPHIC--------

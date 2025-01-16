@@ -26,7 +26,7 @@ To explore each project in detail, click on the project title or visit the respe
 
 ## 🛠️ Toolbox
 
-- **DBMS**: Oracle SQL, MS Acess, SQLite Studio, Postgre SQL
+- **DBMS**: Oracle SQL, MS Access, SQLite Studio, Postgre SQL
 - **Data Visualization**: Tableau Public
 - **MS Excel**
 

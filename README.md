@@ -1,6 +1,6 @@
 # 📊 SQL Portfolio by Aileen Q
 
-Welcome to my SQL Portfolio! This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve developed to demonstrate my growing expertise in data analytics. Each project reflects hands on experience with SQL, data manipulation, and analysis, with a focus on solving real-world data challenges.
+Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I’m showcasing SQL projects and scripts that I’ve developed to demonstrate my growing expertise in data analytics. Each project reflects hands on experience with SQL, data manipulation, and analysis, with a focus on solving real-world data challenges.
 
 ## 👩🏻‍💻 About Me
 

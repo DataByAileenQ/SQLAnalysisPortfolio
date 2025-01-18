@@ -95,8 +95,8 @@ Offer discounts or exclusive benefits to customers who commit to 1 or 2 year con
 - **Encourage Automated Payment Methods**
 Promote the use of credit cards or bank transfers instead of electronic checks by offering small discounts or loyalty rewards for customers who sign up for automatic payments. This will increase customer stability and reduce churn.
 
-- **Target Non-Partnered Customers with Family-Oriented Plans**
-Since customers without a partner tend to have higher churn rates, create special offers focused on family-oriented plans or partnered discounts. This can help encourage longer-term commitment from this group.
+- **Target Non-Partnered Customers with Long-Term Commitment Incentives**
+Since customers without a partner tend to have higher churn rates, create tailored offers that emphasize long-term benefits or individual-focused plans. Consider offering personalized discounts, loyalty rewards, or flexible plans that cater to their unique needs, which can help foster greater engagement and encourage longer-term commitment.
 
 ## Limitations
 

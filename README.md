@@ -37,7 +37,7 @@ If you find any project interesting, or if you have any questions, feel free to 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 - [Personal Portfolio](https://your-portfolio-link.com)
 
-Thank you for visiting! All rights reserved.
+Thank you for visiting!
 
 ---
 

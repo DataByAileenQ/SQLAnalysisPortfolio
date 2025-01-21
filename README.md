@@ -41,4 +41,4 @@ Thank you for visiting!
 
 ---
 
-© 2025 Aileen Quiroz. All rights reserved.
+© 2025 Aileen Quiroz. 

@@ -1,3 +1,40 @@
+-- After creating the schema below, I imported the CSV file into SQLite Studio to begin exploratory data analysis.
+
+/*CREATE TABLE employee_data (
+    Age INTEGER,
+    Attrition TEXT,
+    BusinessTravel TEXT,
+    Department TEXT,
+    DistanceFromHome INTEGER,
+    Education INTEGER,
+    EducationField TEXT,
+    EmployeeNumber INTEGER PRIMARY KEY,
+    EnvironmentSatisfaction INTEGER,
+    Gender TEXT,
+    HourlyRate INTEGER,
+    JobInvolvement INTEGER,
+    JobLevel INTEGER,
+    JobRole TEXT,
+    JobSatisfaction INTEGER,
+    MaritalStatus TEXT,
+    MonthlyIncome INTEGER,
+    NumCompaniesWorked INTEGER,
+    OverTime TEXT,
+    PercentSalaryHike INTEGER,
+    PerformanceRating INTEGER,
+    RelationshipSatisfaction INTEGER,
+    StockOptionLevel INTEGER,
+    TotalWorkingYears INTEGER,
+    TrainingTimesLastYear INTEGER,
+    WorkLifeBalance INTEGER,
+    YearsAtCompany INTEGER,
+    YearsInCurrentRole INTEGER,
+    YearsSinceLastPromotion INTEGER,
+    YearsWithCurrManager INTEGER
+);*/
+
+SELECT * FROM employee_data;
+
 -------------------------Employee Segmentation-------------------------
 
 -- Performance & Attrition by Age Group:

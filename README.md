@@ -32,7 +32,7 @@ To explore each project in detail, click on the project title or visit the respe
 
 
 
-😊Thank you for visiting!
+😊 Thank you for visiting!
 
 ---
 

@@ -1,1 +1,1 @@
-[Banner](HREmployeeAttritionBanner)
+[Banner](HREmployeeAttritionBanner.png)

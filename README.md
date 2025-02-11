@@ -28,7 +28,7 @@ To explore each project in detail, click on the project title or visit the respe
 
 - **DBMS**: Oracle SQL, MS Access, SQLite Studio, Postgre SQL
 - **Data Visualization**: Tableau Public
-- **MS Excel**
+- **Sheets**: MS Excel, Google Sheets
 
 ### 😊 Connect with Me
 

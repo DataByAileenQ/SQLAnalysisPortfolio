@@ -30,10 +30,10 @@ How can we identify the key predictors of high-performing employees and design d
 - [Kaggle HR Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## Process
-- 1️⃣ **Data Familiarization and Transformation**: Collected and cleaned the dataset to address inconsistencies, resolve discrepancies, and ensure data quality using Excel.
-- 2️⃣ **Exploratory Data Analysis (EDA)**: Conducted an in-depth analysis using SQL to uncover patterns and trends, such as identifying the characteristics of high-performing employees.
-- 3️⃣ **Data Visualizations**: Designed interactive dashboards in Tableau to effectively present insights and make data driven findings accessible.
-- 4️⃣ **Recommendation**: Developed actionable strategies based on analysis results, providing clear steps to enhance employee performance and engagement.
+- **Data Familiarization and Transformation**: Collected and cleaned the dataset to address inconsistencies, resolve discrepancies, and ensure data quality using Excel.
+- **Exploratory Data Analysis (EDA)**: Conducted an in-depth analysis using SQL to uncover patterns and trends, such as identifying the characteristics of high-performing employees.
+- **Data Visualizations**: Designed interactive dashboards in Tableau to effectively present insights and make data driven findings accessible.
+- **Recommendation**: Developed actionable strategies based on analysis results, providing clear steps to enhance employee performance and engagement.
 
 ## Methods
 - Data Cleaning

@@ -30,12 +30,6 @@ To explore each project in detail, click on the project title or visit the respe
 - **Data Visualization**: Tableau Public
 - **Sheets**: MS Excel, Google Sheets
 
-### 😊 Connect with Me
-
-If you find any project interesting, or if you have any questions, feel free to reach out!
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-- [Personal Portfolio](https://your-portfolio-link.com)
 
 Thank you for visiting!
 

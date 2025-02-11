@@ -31,7 +31,8 @@ To explore each project in detail, click on the project title or visit the respe
 - **Sheets**: MS Excel, Google Sheets
 
 
-Thank you for visiting!
+
+😊Thank you for visiting!
 
 ---
 

@@ -50,8 +50,10 @@ How can we identify the key predictors of high-performing employees and design d
 
 ## Discoveries
 
-### Churn Distribution by Tenure:
-![ChurnDistributionbyTenure](Images/ChurnDistributionbyTenure.png)
+### Discovery #1: Lower Monthly Income is associated with higher Attrition Rate
+![Banner](Images/Discovery%201.png)
+
+
 
 ### Churn by Payment Method:
 ![ChurnbyPaymentMethod](Images/ChurnbyPaymentMethod.png)

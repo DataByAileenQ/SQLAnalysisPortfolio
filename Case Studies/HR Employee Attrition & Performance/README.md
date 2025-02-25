@@ -9,12 +9,12 @@ In a competitive business environment, organizations thrive when employees perfo
 
 ## Table of Contents
 
-1. [HR Employee Attrition & Performance Overview](#hr-employee-attrition-&-performance-overview)
+1. [HR Employee Attrition & Performance Overview]([#hr-employee-attrition--performance-overview])
 2. [Business Problem](#business-problem)
 3. [Data Source](#data-source)
 4. [Process](#process)
 5. [Methods](#methods)
-6. [Brief Results](#brief-results)
+6. [Discoveries](#discoveries)
 7. [Insights](#insights)
 8. [Lessons Learned](#lessons-learned)
 9. [Reccomendation](#reccomendation)
@@ -48,7 +48,7 @@ How can we identify the key predictors of high-performing employees and design d
   
 ---
 
-## Brief Results
+## Discoveries
 
 ### Churn Distribution by Tenure:
 ![ChurnDistributionbyTenure](Images/ChurnDistributionbyTenure.png)

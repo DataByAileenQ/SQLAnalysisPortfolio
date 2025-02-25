@@ -65,37 +65,43 @@ How can we identify the key predictors of high-performing employees and design d
 
 ## Insights
 
-- **Tenure**: The **highest churn rate** is observed within the first **5 years**, with **680 customers leaving during this period**. Churn decreases as tenure increases, indicating that **early stage retention efforts should be prioritized**. This could be because customers often use the initial months or years to test the product and assess its value. Improving personalized engagement, early support, and price to value match could help reduce churn in these critical stages.
+- **Discovery #1**: Employees earning below **$5,999 per month** experience **higher attrition rates**, with the **$2,000–$2,999** salary range having the **highest attrition rate at 6.46%**. Higher salaries correlate with lower attrition, suggesting that compensation impacts retention. Lower salaries may indicate **Entry Level positions** with **higher turnover** due to better opportunities elsewhere. Offering **career progression paths, upskilling programs, and performance based raises** could help retain employees in lower salary brackets, necessitating a **reassessment of salary structures** for improved retention.
 
-- **Payment Method**: Customers using **electronic checks 15.21% exhibit a higher churn rate**, suggesting that **flexibility and control over payments** may lead to a higher likelihood of churn. In contrast, customers who use **automatic payment methods**, such as bank transfers and credit cards, have **significantly lower churn** rates, indicating that these customers may exhibit **greater commitment and financial stability**. **Mailed check users** also show a relatively **low churn** rate, possibly reflecting a more **traditional and loyal customer segment**.
+- **Discovery #2:** Employee **attrition peaks at 2 training sessions** and declines with continued training, with the **highest rates at 2 (6.67%)** and **3 sessions (4.69%)**. This indicates a critical turning point in retention. Employees in early training stages may have **high expectations** that, if unmet, lead to turnover. Completing **4+ training sessions** may result in **promotions or salary increases**, incentivizing retention. **Early training programs** should include **career progression, mentorship, and growth incentives** to reduce early attrition. Providing **monetary incentives and role advancements** tied to training milestones can also enhance retention.
 
-- **Contract**: The **majority of churned customers** were on **month-to-month contracts 88.55%**, suggesting that the **lack of long-term commitment** in these contracts is a **significant driver of churn**. In contrast, customers on one-year and two-year contracts exhibit lower churn, indicating that longer commitments may help improve retention.
-
-- **Demographic**: **Churned customers without dependents or partners** experience **higher churn rates** compared to those who do. Churned customers **without dependents have a rate of 21.91%** while **churned customers without partners have a 17.04% churn rate**, This suggests that customers **without a partner** may lack support, making them **more cost-sensitive** and more likely to seek alternatives. On the other hand, those **with dependents** may be more incentivized to stay long-term, driven by increased stability or greater **reliance on the service**.
-
+- **Discovery #3:** The highest attrition rates are among **Interns (143)** and **Junior-level employees (52)**, with the **25-34 age group** showing the **highest attrition rate at 7.62%**. As **Job Level increases**, attrition decreases, though younger employees exhibit higher turnover expectations. Entry Level employees may leave if their **career advancement expectations** are unmet. Focusing retention strategies on interns and Junior Level workers with **clear growth opportunities** is essential. Additionally, offering **personalized career development plans** and **mentorship programs** for younger employees can improve retention, especially for **high-performing individuals** in lower job levels.
+  
 ## Lessons Learned
 
-**Data quality is really important** having more complete datasets, especially with more customer details can lead to better insights. Customer segmentation was key in identifying high risk groups and creating targeted retention strategies. 
+**Prioritizing data integrity** is crucial for deriving **accurate insights** and understanding **correlations** within the dataset. A clear comprehension of each **field name** and its associated **values** contributes to the overall **quality** of the data. Identifying **discrepancies** among values is essential for maintaining data integrity, which in turn ensures **high-quality recommendations**.
 
 ## Reccomendation
 
-- **Incentivize Long-Term Contracts**
-Offer discounts or exclusive benefits to customers who commit to 1 or 2 year contracts. This will increase customer retention by reducing churn from month-to-month contracts.
+1. **Enhance Compensation Strategy**
+    - **Action**: Conduct **compensation benchmarking** against industry standards to adjust salary offerings, especially for entry-level roles and employees in the **25-34 age group**.
+    - **Expected Outcome**: Attract and retain top talent, ensuring salaries are competitive within the market.
 
-- **Encourage Automated Payment Methods**
-Promote the use of credit cards or bank transfers instead of electronic checks by offering small discounts or loyalty rewards for customers who sign up for automatic payments. This will increase customer stability and reduce churn.
+2. **Build Comprehensive Career Development Programs**
+    - **Action**: Develop **personalized career growth plans**, focusing on **mentorship** and **skill development programs** for early career employees (Interns and Junior level).
+    - **Expected Outcome**: Improved job satisfaction, increased employee loyalty, and a reduced turnover rate among younger, early career employees.
 
-- **Target Non-Partnered Customers with Long-Term Commitment Incentives**
-Since customers without a partner tend to have higher churn rates, create tailored offers that emphasize long-term benefits or individual-focused plans. Consider offering personalized discounts, loyalty rewards, or flexible plans that cater to their unique needs, which can help foster greater engagement and encourage longer-term commitment.
+3. **Create Retention Strategies for High Performers**
+    - **Action**: Identify high-performing employees in lower levels and create retention incentives like **tailored advancement opportunities**, **recognition programs**, and **performance-based rewards**.
+    - **Expected Outcome**: Enhanced engagement and retention of key talent, leading to a more stable workforce and improved organizational productivity.
+
+4. **Work-Life Balance Initiatives for Single Employees**
+    - **Action**: Review and enhance work-life balance policies, including flexible work schedules and telecommuting options, especially for single employees in entry-level roles.
+    - **Expected Outcome**: Improve job satisfaction and reduce turnover by addressing the specific needs of this group.
 
 ## Limitations
 
-The analysis was limited by the lack of essential **demographic** and **product related data**, such as **age**, **salary**, and **detailed service pricing**.
+The analysis was limited by the presence of **data inaccuracies** and **exclusions** in the dataset.
 
-- **Age and Salary Data**: Without this, it was difficult to segment customers based on their financial profiles and tailor retention or pricing strategies accordingly.
-- **Service Pricing Data**: The absence of detailed pricing information made it hard to assess price sensitivity or determine if churn was due to dissatisfaction with service value.
+**Data Inaccuracies & Exclusions**: Some records contained inaccuracies, leading to their exclusion from the analysis. This particularly affected insights related to **employee income trends**, potentially limiting a more comprehensive understanding of salary’s impact on attrition. However, despite these exclusions, the remaining data provided **valuable insights** for addressing the business problem.
 
-Incorporating these data points would have enabled a more comprehensive understanding of customer behavior and improved retention strategies.
+**External Factors Not Considered**: The dataset did not account for **broader economic conditions, industry trends, or internal organizational changes** during the study period. Factors such as **market demand for specific roles** or **competitive salary benchmarks** could have influenced employee attrition beyond what was captured in the internal data.
+
+Implementing these data considerations could have enabled a better understanding of employee performance and improved talent retention.
 
 <Br>
 

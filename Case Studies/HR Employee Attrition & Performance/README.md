@@ -51,12 +51,10 @@ How can we identify the key predictors of high-performing employees and design d
 ## Discoveries
 
 ### Discovery #1: Lower Monthly Income is associated with higher Attrition Rate
-![Banner](Images/Discovery%201.png)
+![Discovery 1](Images/Discovery%201.png)
 
-
-
-### Churn by Payment Method:
-![ChurnbyPaymentMethod](Images/ChurnbyPaymentMethod.png)
+### Discovery #2: Attrition Peaks Early but Declines with Continued Training 
+![Discovery 2](Images/Discovery%202.png)
 
 ### Customer Churn by Contract:
 ![CustomerChurnbyContract](Images/CustomerChurnbyContract.png)

@@ -8,7 +8,7 @@ In a competitive business environment, organizations thrive when employees perfo
 
 ## Table of Contents
 
-1. [HR Employee Attrition & Performance Overview](#hr-employee-attrition-performance-overview)
+1. [HR Employee Attrition & Performance Overview](#hr-employee-attrition-&-performance-overview)
 2. [Business Problem](#business-problem)
 3. [Data Source](#data-source)
 4. [Process](#process)
@@ -36,12 +36,12 @@ How can we identify the key predictors of high-performing employees and design d
 - **Recommendation**: Developed actionable strategies based on analysis results, providing clear steps to enhance employee performance and engagement.
 
 ## Methods
-- Data Cleaning
+- Data Preparation
 - Exploratory Data Analysis (EDA)
 - Employee Segmentation
 - Job Satisfaction & Engagement
 - Performance Retention Strategy
-- Performance Metrics
+- Career Development Analysis
 
 <Br>
   
@@ -59,16 +59,6 @@ How can we identify the key predictors of high-performing employees and design d
 ![CustomerChurnbyContract](Images/CustomerChurnbyContract.png)
 
 ### Customer Demographic:
-
-| Partner | ChurnRate |
-|---------|-----------|
-| No      | 17.04     |
-| Yes     | 9.5       |
-
-| Dependents | ChurnRate |
-|------------|-----------|
-| No         | 21.91     |
-| Yes        | 4.63      |
 
 <Br>
 

@@ -107,7 +107,6 @@ Implementing these data considerations could have enabled a better understanding
 
 ---
 
-## Further Reading and Exploration
+## Further Exploration
 
-- **[Detailed Case Study](https://link-to-your-notion.com):** Dive deeper into the insights, challenges, and processes behind this project on my personal portfolio.  
 - **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/TelcoCustomerChurn_17359555698340/Dashboard2?publish=yes):** Explore the visualizations and analysis interactively on Tableau Public.  

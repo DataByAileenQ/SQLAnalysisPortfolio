@@ -110,7 +110,6 @@ Implementing these data considerations could have enabled a better understanding
 ## Further Exploration
 
 - **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/HREmployeeAttritionPerformance/Dashboard2?publish=yes):** Explore the visualizations and analysis interactively on Tableau Public.
-- **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/HREmployeeAttritionPerformance/Dashboard2?publish=yes){:target="_blank"}:** Explore the visualizations and analysis interactively on Tableau Public.
-- **<a href="https://public.tableau.com/app/profile/aileen.q/viz/HREmployeeAttritionPerformance/Dashboard2?publish=yes" target="_blank">Interactive Tableau Dashboard</a>:** Explore the visualizations and analysis interactively on Tableau Public.
+
 
   

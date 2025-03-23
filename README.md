@@ -16,7 +16,7 @@ Below is a summary of the projects included in this repository:
 
 | Project Link | Type of Project | Area of Analysis | Project Description | 
 |---|---|---|---|
-|  [📞 Telco Customer Churn Analysis]((https://github.com/DataByAileenQ/SQLAnalysisPortfolio/tree/main/Case%20Studies/Telco%20Customer%20Churn)) | Case Study | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
+|  [📞 Telco Customer Churn Analysis](https://github.com/DataByAileenQ/SQLAnalysisPortfolio/tree/main/Case%20Studies/Telco%20Customer%20Churn) | Case Study | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
 |  [💼 HR Employee Attrition & Performance](./projects/hr-employee-attrition-performance/) | Case Study | Employee retention, performance analysis, HR insights | Investigate employee attrition rates and performance trends to recommend HR strategies for improving retention. 💼|  
 |  [📦 Customer & Order Analytics](./projects/customer-order-analytics/) | Technical Project | Sales trends, customer demographics, product performance | Analyze customer orders and identify key factors affecting sales, such as customer preferences and product popularity. 📈 |  
 |  [🎧 Spotify Music Analysis](./projects/spotify-music-analysis/) | Technical Project | Music data, temporal trends, genre analysis | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and trends across different genres. 🎵 |  

@@ -17,7 +17,7 @@ In a competitive business environment, organizations thrive when employees perfo
 6. [Discoveries](#discoveries)
 7. [Insights](#insights)
 8. [Lessons Learned](#lessons-learned)
-9. [Reccomendation](#reccomendation)
+9. [Recommendation](#recommendation)
 10. [Limitations](#limitations)
 
 <Br>
@@ -75,7 +75,7 @@ How can we identify the key predictors of high-performing employees and design d
 
 **Prioritizing data integrity** is crucial for deriving **accurate insights** and understanding **correlations** within the dataset. A clear comprehension of each **field name** and its associated **values** contributes to the overall **quality** of the data. Identifying **discrepancies** among values is essential for maintaining data integrity, which in turn ensures **high-quality recommendations**.
 
-## Reccomendation
+## Recommendation
 
 1. **Enhance Compensation Strategy**
     - **Action**: Conduct **compensation benchmarking** against industry standards to adjust salary offerings, especially for entry-level roles and employees in the **25-34 age group**.

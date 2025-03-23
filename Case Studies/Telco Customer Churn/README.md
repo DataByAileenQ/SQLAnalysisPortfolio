@@ -17,7 +17,7 @@ Customer churn is a critical metric for businesses, as it measures the rate at w
 6. [Brief Results](#brief-results)
 7. [Insights](#insights)
 8. [Lessons Learned](#lessons-learned)
-9. [Reccomendation](#reccomendation)
+9. [Recommendation](#recommendation)
 10. [Limitations](#limitations)
 
 <Br>
@@ -87,7 +87,7 @@ What factors are most strongly associated with customer churn in telecommunicati
 
 **Data quality is really important** having more complete datasets, especially with more customer details can lead to better insights. Customer segmentation was key in identifying high risk groups and creating targeted retention strategies. 
 
-## Reccomendation
+## Recommendation
 
 - **Incentivize Long-Term Contracts**
 Offer discounts or exclusive benefits to customers who commit to 1 or 2 year contracts. This will increase customer retention by reducing churn from month-to-month contracts.

@@ -14,23 +14,6 @@ These projects present a mix of challenges, from understanding customer behavior
 
 Below is a summary of the projects included in this repository:
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-|  [📞 Telco Customer Churn Analysis](./projects/telco-customer-churn/) | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
-|  [💼 HR Employee Attrition & Performance](./projects/hr-employee-attrition-performance/) | Employee retention, performance analysis, HR insights | Investigate employee attrition rates and performance trends to recommend HR strategies for improving retention. 💼|  
-|  [📦 Customer & Order Analytics](./projects/customer-order-analytics/) | Sales trends, customer demographics, product performance | Analyze customer orders and identify key factors affecting sales, such as customer preferences and product popularity. 📈 |  
-|  [🎧 Spotify Music Analysis](./projects/spotify-music-analysis/) | Music data, temporal trends, genre analysis | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and trends across different genres. 🎵 |
-
-
-| Project Link | Type of Project | Area of Analysis | Project Description | 
-|---|---|---|---|
-|  [📞 Telco Customer Churn Analysis](./projects/telco-customer-churn/) | Case Study | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
-|  [💼 HR Employee Attrition & Performance](./projects/hr-employee-attrition-performance/) | Case Study | Employee retention, performance analysis, HR insights | Investigate employee attrition rates and performance trends to recommend HR strategies for improving retention. 💼|  
-|  [📦 Customer & Order Analytics](./projects/customer-order-analytics/) | Technical Project | Sales trends, customer demographics, product performance | Analyze customer orders and identify key factors affecting sales, such as customer preferences and product popularity. 📈 |  
-|  [🎧 Spotify Music Analysis](./projects/spotify-music-analysis/) | Technical Project | Music data, temporal trends, genre analysis | Explore standout songs of 2023, analyze song characteristics, popularity metrics, and trends across different genres. 🎵 |  
-|  [🏢 Fortune 500 Company Analysis](./projects/fortune-500-analysis/) | Technical Project | Company performance, financial metrics, industry trends | Examine Fortune 500 companies, analyzing revenue growth, profitability, and industry rankings to uncover key business trends. 📊 |  
-|  [🎬 Netflix Content Analysis](./projects/netflix-content-analysis/) | Technical Project | Streaming trends, content categories, viewer preferences | Investigate Netflix’s content library to identify trends in genre popularity, regional distribution, and viewer engagement. 📺 |  
-|  [🛒 Superstore Inventory & Pricing Analysis](./projects/superstore-inventory-pricing/) | Technical Project | Inventory management, pricing strategy, sales performance | Analyze product inventory, pricing trends, and sales performance to optimize stock levels and revenue. 🏪 |  
 | Project Link | Type of Project | Area of Analysis | Project Description | 
 |---|---|---|---|
 |  [📞 Telco Customer Churn Analysis](./projects/telco-customer-churn/) | Case Study | Customer behavior, churn prediction, service usage patterns | Analyze customer churn patterns and identify key factors influencing customer retention in the telecommunications industry. 📊 | 
@@ -41,7 +24,6 @@ Below is a summary of the projects included in this repository:
 |  [🎬 Netflix Content Analysis](./projects/netflix-content-analysis/) | Technical Project | Movie & TV show characteristics, content distribution, rating trends | Examine Netflix’s library to analyze trends in movie and TV show availability, content ratings, and production year distributions to identify key patterns in streaming content. 📺 |  
 |  [🛒 Superstore Inventory & Pricing Analysis](./projects/superstore-inventory-pricing/) | Technical Project | Inventory management, pricing strategy, sales performance | Analyze product inventory, pricing trends, and sales performance to optimize stock levels and revenue. 🏪 |  
 
-  
 To explore each project in detail, click on the project title or visit the respective folder.
 
 ## 🛠️ Toolbox

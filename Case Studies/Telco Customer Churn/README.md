@@ -102,7 +102,7 @@ Since customers without a partner tend to have higher churn rates, create tailor
 
 The analysis was limited by the lack of essential **demographic** and **product related data**, such as **age**, **salary**, and **detailed service pricing**.
 
-- **Age and Salary Data**: Without this, it was difficult to segment customers based on their financial profiles and tailor retention or pricing strategies accordingly.
+- **Age and Salary Data**: Without these data points, it was difficult to segment customers based on their financial profiles and tailor retention or pricing strategies accordingly.
 - **Service Pricing Data**: The absence of detailed pricing information made it hard to assess price sensitivity or determine if churn was due to dissatisfaction with service value.
 
 Incorporating these data points would have enabled a more comprehensive understanding of customer behavior and improved retention strategies.
@@ -113,5 +113,5 @@ Incorporating these data points would have enabled a more comprehensive understa
 
 ## Further Exploration
 
-- **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/TelcoCustomerChurn_17359555698340/Dashboard2?publish=yes):** Explore the visualizations and analysis interactively on Tableau Public.  
+- **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/aileen.q/viz/TelcoCustomerChurn_17359555698340/Dashboard2?publish=yes):** Explore the visualizations and analysis on Tableau Public.  
 

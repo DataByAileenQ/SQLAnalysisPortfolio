@@ -28,13 +28,13 @@ To explore each project in detail, click on the project title or visit the respe
 
 ## 🛠️ Toolbox
 
-- **DBMS**: Oracle SQL, MS Access, SQLite Studio, Postgre SQL
+- **DBMS**: Oracle SQL, MS Access, SQLite Studio, PostgreSQL
 - **Data Visualization**: Tableau Public
 - **Sheets**: MS Excel, Google Sheets
 
 
 
-😊 Thank you for visiting!
+😊 Thank you for visiting my portfolio!
 
 ---
 

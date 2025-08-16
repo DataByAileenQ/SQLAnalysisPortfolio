@@ -4,7 +4,7 @@ Welcome to my SQL Portfolio! 🎉 This repository is a dedicated space where I�
 
 ## 👩🏻‍💻 About Me
 
-This portfolio showcases my approach to SQL, which goes beyond just writing code. I focus on crafting clear and insightful explanations for each query, ensuring that both technical and non-technical audiences can easily understand its purpose and impact. With a background in **Data Analytics**, **UX Research**, and **MIS**, I aim to bridge the gap between data and those who can benefit from it, regardless of their technical expertise.
+This portfolio showcases my approach to SQL, which goes beyond just writing code. I focus on crafting clear and insightful explanations for each query, ensuring that both technical and non-technical audiences can easily understand its purpose and impact. With a background in **Data Analytics**, **UX Research**, and **Management Information Systems**, I aim to bridge the gap between data and those who can benefit from it, regardless of their technical expertise.
 
 ## 📂 Projects
 
